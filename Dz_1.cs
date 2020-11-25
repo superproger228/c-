@@ -1,4 +1,5 @@
-﻿using System; 
+//Саяпина Александра 11-3-6
+using System; 
 
 namespace ConsoleApp1
 {
@@ -17,8 +18,8 @@ namespace ConsoleApp1
 
             Console.WriteLine(
             rePoli == poli
-            ? "Строка - палиндром"
-            : "Ну строка, как строка (не палиндром)"
+            ? "Палиндром"
+            : "Не палиндром"
             );
         }
     }
